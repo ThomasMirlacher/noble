@@ -1,9 +1,10 @@
 {
   "browser": true,
   "node": true,
+  "esversion": 6,
   "mocha": true,
-  "unused": false, //enable after cleanup
-  "undef": false, //enable after cleanup
+  "unused": false,
+  "undef": false,
   "globals": {
     "Promise": true
   }
